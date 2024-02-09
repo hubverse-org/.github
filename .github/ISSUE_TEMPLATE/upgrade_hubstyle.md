@@ -15,6 +15,7 @@ assignees: annakrystalli
 - [ ] Run `hubDevs::use_hubdev_community()` to update community docs
 - [ ] Run `hubDevs:::hubdev_ignore()` to ignore std files
 - [ ] Check authors
+- [ ] Add `hubverse` & `r-package` topics to repos
 
 ## Set up Netlify PR Previews
 
