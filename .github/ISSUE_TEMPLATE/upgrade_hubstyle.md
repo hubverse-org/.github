@@ -11,7 +11,7 @@ assignees: annakrystalli
 - [ ] Create `enhancement/hubstyle` branch
 - [ ] Run `hubDevs::use_hubdev_pkgdown(add_logo = TRUE)` to update pkgdown
 - [ ] Add logo to your README
-- [ ] Append standard footer to README. Render
+- [ ] Append standard footer to README with `hubDevs::append_hubdev_readme_footer()`. Render
 - [ ] Run `hubDevs::use_hubdev_community()` to update community docs
 - [ ] Run `hubDevs:::hubdev_ignore()` to ignore std files
 - [ ] Check authors
