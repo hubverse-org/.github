@@ -8,7 +8,7 @@ projects: "hubverse Development overview"
 milestone: "org-rename"
 ---
 
-## :exclamation-mark: Please do not merge anything into main until the 19th June
+## :exclamation: Please do not merge anything into main until the 19th June
 
 - [ ] Create new branch called `to-hubverse` from latest dev branch (most likely related to the v3 schema PRs). (Make sure to pull first). If none exist, branch off from `main`.
 - [ ] Find and replace `Infectious-Disease-Modeling-Hubs` with `hubverse-org` throughout repo.
