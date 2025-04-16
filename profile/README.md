@@ -7,4 +7,4 @@
 
 The hubverse is a collection of open-source software and data tools that enables collaborative modeling exercises. It is developed by the Consortium of Infectious Disease Modeling Hubs, a collaboration of research teams and public health professionals that have built and maintained predictive modeling hubs for infectious disease applications. Working together, we have developed the hubverse for groups that are running collaborative modeling hub efforts. This website documents the requirements for using the hubverse.
 
-For more information, [visit our docs](https://hubdocs.readthedocs.io/en/latest/)
+For more information, [visit our docs](https://hubverse.io/en/latest/)
